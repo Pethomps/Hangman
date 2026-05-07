@@ -8,11 +8,17 @@ The project recreates the classic word-guessing game, implementing subroutines, 
 
 ## Features
 ⚬ Sequential word selection from a predefined array of words
+
 ⚬ Hidden word display using underscores
+
 ⚬ Letter guessing with input handling
+
 ⚬ Limited number of incorrect guesses per word
+
 ⚬ Game progression to next word upon succes
+
 ⚬ Win/loose game states with messages
+
 ⚬ Modular desing using subroutines
 
 ## How to Run
@@ -23,13 +29,18 @@ The project recreates the classic word-guessing game, implementing subroutines, 
 
 ## Controls
 ⚬ Enter a single letter when prompted
+
 ⚬ Try to guess hidden word before running out of attempts
+
 ⚬ Correctly guessing a word advances you to the next one
 
 ## Learning outcomes
 Working on this project helped me reinforce:
+
 ⚬ LC-3 instruction set usage
+
 ⚬ Subroutine and array usage
+
 ⚬ Managing game logic
 
 ## Author
