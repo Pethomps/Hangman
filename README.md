@@ -11,8 +11,6 @@ The project recreates the classic word-guessing game, implementing subroutines, 
 
 ⚬ Hidden word display using underscores
 
-⚬ Letter guessing with input handling
-
 ⚬ Limited number of incorrect guesses per word
 
 ⚬ Game progression to next word upon succes
