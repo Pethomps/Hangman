@@ -1,6 +1,7 @@
 # Hangman
 
-<img width="398" height="327" alt="image" src="https://github.com/user-attachments/assets/4518cf9c-fd07-4084-a694-9910460cbaa3" />
+<img width="309" height="373" alt="image" src="https://github.com/user-attachments/assets/7a708191-606e-4957-965d-052ed549dea2" />
+
 
 ## Description
 Hangman game implemented in LC-3 assembly language.
