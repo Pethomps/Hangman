@@ -1,6 +1,7 @@
 # Hangman
 
-<img width="318" height="412" alt="image" src="https://github.com/user-attachments/assets/cbe224fb-152b-4d8e-8da0-c548ab46f533" />
+<img width="379" height="421" alt="image" src="https://github.com/user-attachments/assets/d07881c7-0cad-4e1d-83f7-696d0c0b2bd1" />
+
 
 
 
