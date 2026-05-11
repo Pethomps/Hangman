@@ -9,7 +9,7 @@ The project recreates the classic word-guessing game, implementing subroutines, 
 ## Features
 ⚬ Sequential word selection from a predefined array of words
 
-⚬ Hidden word display using underscores
+⚬ Hidden word displayed using underscores
 
 ⚬ Limited number of incorrect guesses per word
 
